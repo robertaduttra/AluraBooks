@@ -1,6 +1,8 @@
 # AluraBooks
 
-Criação de uma página inicial para o site da AluraBooks.
+Criação de uma página inicial da AluraBooks, totalmente responsivo.
+
+Disponível na versão Web, tablet e mobile.
 
  Tecnologias Utilizadas:
 - HTML5
