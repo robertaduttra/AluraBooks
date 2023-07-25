@@ -7,3 +7,4 @@ Criação de uma página inicial para o site da AluraBooks.
 - CSS3
 - JavaScript (SwiperAPI)
   
+Deploy em: https://robertaduttra.github.io/AluraBooks/
